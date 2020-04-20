@@ -1,2 +1,2 @@
 # modern-soc
-Microsoft US Security R&amp;D
+A Microsoft US Security Experimental Project
